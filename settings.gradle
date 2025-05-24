@@ -1,0 +1,2 @@
+rootProject.name = 'ChatSTT'
+include ':app' 
